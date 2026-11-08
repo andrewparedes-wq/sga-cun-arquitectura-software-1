@@ -1,0 +1,6 @@
+{
+  "name": "SGA CUN - Arquitectura de Software (ACA)",
+  "description": "Diseño y validación de la arquitectura de software empresarial para el Sistema de Gestión Académica (SGA) de la CUN en Monolito Modular con Clean Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
